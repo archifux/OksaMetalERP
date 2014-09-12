@@ -24,3 +24,7 @@ C:\Users\cagatay\Desktop\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug
 C:\Users\cagatay\Desktop\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.Sevkiyat.SevkiyatEkran.resources
 C:\Users\cagatay\Desktop\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.Uretim.uretimdekiler2.resources
 C:\Users\cagatay\Desktop\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.Uretim.uretimdekiler3.resources
+C:\Users\can\Documents\GitHub\OksaMetalERP\oxxo\oksametal\OxxoSolution\OxxoUserInterface\bin\Debug\OxxoUserInterface.exe.config
+C:\Users\can\Documents\GitHub\OksaMetalERP\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.exe
+C:\Users\can\Documents\GitHub\OksaMetalERP\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.pdb
+C:\Users\can\Documents\GitHub\OksaMetalERP\oxxo\oksametal\OxxoSolution\OxxoUserInterface\obj\Debug\OxxoUserInterface.csprojResolveAssemblyReference.cache
